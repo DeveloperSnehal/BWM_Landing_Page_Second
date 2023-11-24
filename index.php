@@ -2,7 +2,7 @@
 
 <!-- Hero Start -->
 <div class="section techwix-hero-section-03 d-flex align-items-center"
-    style="background-image: url(assets/images/hero-bg3.jpg);">
+    style="background-image: url(assets/images/bwm-recycler-waste-management-main-page-india.jpg);">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
@@ -49,534 +49,101 @@
     </div>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6">
+            <div class="col-lg-6 col-sm-12">
                 <!-- Hero Content Start -->
                 <div class="hero-content">
-                    <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Technology Releted Consultancy</h3>
-                    <h2 class="title" data-aos="fade-up" data-aos-delay="800">We transform ideas into technology</h2>
-                    <p data-aos="fade-up" data-aos-delay="900">We provide the most responsive and functional IT design
-                        for companies and businesses worldwide.</p>
-                    <div class="hero-btn" data-aos="fade-up" data-aos-delay="1000">
-                        <a class="btn" href="about.html">Read More</a>
-                    </div>
+                    <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">RECYCLE FOR SUSTAINABILITY</h3>
+                    <h2 class="title" data-aos="fade-up" data-aos-delay="800">Government Authorized E-Waste Recycler
+                    </h2>
+                    <p data-aos="fade-up" data-aos-delay="900">We’re the #1 E-Waste and IT Waste Management Service
+                        Provider for companies and businesses worldwide</p>
                 </div>
                 <!-- Hero Content End -->
+            </div>
+            <div class="col-lg-6 col-sm-12">
+                <!-- Contact Start -->
+                <div
+                    class="section techwix-contact-section techwix-contact-section-02 techwix-contact-section-03 section-padding-02">
+                    <div class="container">
+                        <!-- Contact Wrap Start -->
+                        <div class="contact-wrap" style="background-image: url(assets/images/shape/contact-shape.png);">
+                            <!-- Contact Form Start -->
+                            <div class="contact-form">
+                                <div class="contact-form-wrap">
+                                    <div class="heading-wrap text-center">
+                                        <span class="sub-title">BOOK A FREE CONSULTATION</span>
+                                        <h3 class="title">Get the Best Quote for E-Waste</h3>
+                                    </div>
+                                    <form action="#">
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <!-- Single Form Start -->
+                                                <div class="single-form">
+                                                    <input type="text" placeholder="Name *">
+                                                </div>
+                                                <!-- Single Form End -->
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <!-- Single Form Start -->
+                                                <div class="single-form">
+                                                    <input type="email" placeholder="Email *">
+                                                </div>
+                                                <!-- Single Form End -->
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <!-- Single Form Start -->
+                                                <div class="single-form">
+                                                    <input type="text" placeholder="Phone *">
+                                                </div>
+                                                <!-- Single Form End -->
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <!-- Single Form Start -->
+                                                <div class="single-form">
+                                                    <input type="text" placeholder="Subject *">
+                                                </div>
+                                                <!-- Single Form End -->
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <!-- Single Form Start -->
+                                                <div class="single-form">
+                                                    <textarea placeholder="Write A Message"></textarea>
+                                                </div>
+                                                <!-- Single Form End -->
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <!--  Single Form Start -->
+                                                <div class="form-btn">
+                                                    <button class="btn" type="submit">Send
+                                                        Message</button>
+                                                </div>
+                                                <!--  Single Form End -->
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <!-- Contact Form End -->
+                        </div>
+                        <!-- Contact Wrap End -->
+                    </div>
+                </div>
+                <!-- Contact End -->
             </div>
         </div>
     </div>
 </div>
 <!-- Hero End -->
 
-<!-- Service Start -->
-<div class="section techwix-service-section-03" style="background-image: url(assets/images/bg/service-bg3.jpg);">
-    <div class="container">
-        <!-- Service Wrap Start -->
-        <div class="service-wrap-03">
-            <div class="row">
-                <div class="col-xl-3 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item-03">
-                        <div class="service-img">
-                            <img src="assets/images/ser-icon9.png" alt="">
-                        </div>
-                        <div class="service-content">
-                            <h3 class="title"><a href="service.html">Infrastructure Technology</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item-03">
-                        <div class="service-img">
-                            <img src="assets/images/ser-icon10.png" alt="">
-                        </div>
-                        <div class="service-content">
-                            <h3 class="title"><a href="service.html">IT Consultancy & solution</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item-03">
-                        <div class="service-img">
-                            <img src="assets/images/ser-icon11.png" alt="">
-                        </div>
-                        <div class="service-content">
-                            <h3 class="title"><a href="service.html">Cloud managed services</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item-03">
-                        <div class="service-img">
-                            <img src="assets/images/ser-icon12.png" alt="">
-                        </div>
-                        <div class="service-content">
-                            <h3 class="title"><a href="service.html">Blockchain technology</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-            </div>
-        </div>
-        <!-- Service Wrap End -->
-    </div>
-</div>
-<!-- Service End -->
-
-<!-- About Start -->
-<div class="section techwix-about-section-04 section-padding">
-    <div class="shape-1"></div>
-    <div class="container">
-        <!-- About Wrapper Start -->
-        <div class="about-wrap">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- About Content Wrap Start -->
-                    <div class="about-content-wrap">
-                        <div class="section-title">
-                            <h3 class="sub-title">Who we are</h3>
-                            <h2 class="title">Highly Tailored IT Design, Management & Support Services.</h2>
-                        </div>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
-                        <!-- About Author Info Wrap Start -->
-                        <div class="about-author-info-wrap">
-                            <div class="about-author">
-                                <img src="assets/images/sign.png" alt="">
-                                <h3 class="name">Alen Morno sin</h3>
-                                <span class="designation">CEO, Techmax</span>
-                            </div>
-                            <div class="about-info">
-                                <p>Call to ask any question </p>
-                                <h3 class="number">0123-456-7890</h3>
-                            </div>
-                        </div>
-                        <!-- About Author Info Wrap End -->
-                    </div>
-                    <!-- About Content Wrap End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- About Image Wrap Start -->
-                    <div class="about-img-wrap">
-                        <div class="play-btn-02">
-                            <a class="popup-video" href="https://www.youtube.com/watch?time_continue=3&v=_X0eYtY8T_U"><i
-                                    class="fas fa-play"></i></a>
-                        </div>
-                        <div class="about-img about-img-big">
-                            <img src="assets/images/about-big2.jpg" alt="">
-                        </div>
-                        <div class="about-img about-img-sm">
-                            <img src="assets/images/about-sm2.jpg" alt="">
-                        </div>
-                    </div>
-                    <!-- About Image Wrap End -->
-                </div>
-            </div>
-        </div>
-        <!-- About Wrapper End -->
-    </div>
-</div>
-<!-- About End -->
-
-<!-- Counter Start -->
-<div class="section techwix-counter-section-02">
-    <div class="container">
-        <div class="counter-wrap">
-            <div class="row">
-                <div class="col-xl-3 col-md-6">
-                    <!-- Single Counter Start -->
-                    <div class="single-counter">
-                        <div class="counter-img">
-                            <img src="assets/images/counter-1.png" alt="">
-                        </div>
-                        <div class="counter-content">
-                            <span class="counter">1790</span>
-                            <p>Happy clients</p>
-                        </div>
-                    </div>
-                    <!-- Single Counter End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Single Counter Start -->
-                    <div class="single-counter">
-                        <div class="counter-img">
-                            <img src="assets/images/counter-2.png" alt="">
-                        </div>
-                        <div class="counter-content">
-                            <span class="counter">491</span>
-                            <p>Finished projects</p>
-                        </div>
-                    </div>
-                    <!-- Single Counter End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Single Counter Start -->
-                    <div class="single-counter">
-                        <div class="counter-img">
-                            <img src="assets/images/counter-3.png" alt="">
-                        </div>
-                        <div class="counter-content">
-                            <span class="counter">245</span>
-                            <p>Skilled Experts</p>
-                        </div>
-                    </div>
-                    <!-- Single Counter End -->
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <!-- Single Counter Start -->
-                    <div class="single-counter single-counter-4">
-                        <div class="counter-img">
-                            <img src="assets/images/counter-1.png" alt="">
-                        </div>
-                        <div class="counter-content">
-                            <span class="counter">1090</span>
-                            <p>Media Posts</p>
-                        </div>
-                    </div>
-                    <!-- Single Counter End -->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Counter End -->
-
-<!-- Choose Us Start -->
-<div class="section techwix-choose-us-section section-padding"
-    style="background-image: url(assets/images/bg/choose-us-bg.jpg);">
-    <div class="container">
-        <!-- Choose Us Wrap Start -->
-        <div class="choose-us-wrap">
-            <div class="section-title text-center">
-                <h3 class="sub-title">REASON TO CHOOSE US</h3>
-                <h2 class="title">We provide truly prominent IT solutions.</h2>
-            </div>
-            <div class="choose-us-content-wrap">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <!-- Choose Us Item Start -->
-                        <div class="choose-us-item">
-                            <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us1.jpg" alt=""></a>
-                                <div class="choose-us-content">
-                                    <h3 class="title">Information managemnet system</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Choose Us Item End -->
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <!-- Choose Us Item Start -->
-                        <div class="choose-us-item">
-                            <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us2.jpg" alt=""></a>
-                                <div class="choose-us-content">
-                                    <h3 class="title">Information Database Security</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Choose Us Item End -->
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <!-- Choose Us Item Start -->
-                        <div class="choose-us-item">
-                            <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us3.jpg" alt=""></a>
-                                <div class="choose-us-content">
-                                    <h3 class="title">Multifunctional Technology</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Choose Us Item End -->
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="more-choose-content text-center">
-                            <p>Learn more about <a href="choose-us.html">More reason <i
-                                        class="fas fa-long-arrow-alt-right"></i></a> </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Choose Us Wrap End -->
-    </div>
-</div>
-<!-- Choose Us End -->
-
-<!-- Skill Start -->
-<div class="section techwix-skill-section-02 section-padding">
-    <div class="container">
-        <div class="skill-wrap">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- Skill Left Start -->
-                    <div class="skill-left">
-                        <div class="section-title">
-                            <h2 class="title">Preparing for your success, we provide truly prominent IT solutions</h2>
-                        </div>
-                        <div class="experience-wrap">
-                            <div class="experience">
-                                <h2 class="number">25</h2>
-                                <span>Years of <br> experience</span>
-                            </div>
-                            <div class="experience-text">
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team of incredible freelance talent for all your software development needs.</p>
-                                <a class="learn-more" href="#">learn More About Us <i
-                                        class="fas fa-long-arrow-alt-right"></i></a></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Skill Left End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- Skill Right Start -->
-                    <div class="skill-right">
-                        <div class="counter-bar">
-                            <!-- Skill Item Start -->
-                            <div class="skill-item">
-                                <span class="title">IT Managment</span>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line color-1" data-width="80">
-                                            <span class="skill-percent"><span class="counter">80</span>%</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Skill Item End -->
-                            <!-- Skill Item Start -->
-                            <div class="skill-item">
-                                <span class="title">Data Security</span>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line color-1" data-width="95">
-                                            <span class="skill-percent"><span class="counter">95</span>%</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Skill Item End -->
-                            <!-- Skill Item Start -->
-                            <div class="skill-item">
-                                <span class="title">Information Technology</span>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line color-1" data-width="80">
-                                            <span class="skill-percent"><span class="counter">80</span>%</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Skill Item End -->
-                            <!-- Skill Item Start -->
-                            <div class="skill-item">
-                                <span class="title">Technology Consultant</span>
-                                <div class="skill-bar">
-                                    <div class="bar-inner">
-                                        <div class="bar progress-line color-1" data-width="90">
-                                            <span class="skill-percent"><span class="counter">90</span>%</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Skill Item End -->
-                        </div>
-                    </div>
-                    <!-- Skill Right End -->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Skill End -->
-
-<!-- Case Study Start -->
-<div class="section techwix-case-study-section-02 section-padding"
-    style="background-image: url(assets/images/bg/case-study-bg.jpg);">
-    <div class="container">
-        <div class="case-study-wrap">
-            <div class="section-title text-center">
-                <h3 class="sub-title">From our Case studies</h3>
-                <h2 class="title white">We delivered best solution</h2>
-            </div>
-        </div>
-    </div>
-    <!-- Case Study Content Wrap Start -->
-    <div class="case-study-content-wrap">
-        <div class="swiper-container case-study-active">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <!-- Single Case Study Start -->
-                    <div class="single-case-study-02">
-                        <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-4.jpg" alt=""></a>
-                        </div>
-                        <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
-                            <h3 class="title"><a href="#"><span>Structure</span> <br> <span>of Malnufication</span></a>
-                            </h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
-                        </div>
-                    </div>
-                    <!-- Single Case Study End -->
-                </div>
-                <div class="swiper-slide">
-                    <!-- Single Case Study Start -->
-                    <div class="single-case-study-02">
-                        <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-5.jpg" alt=""></a>
-                        </div>
-                        <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
-                            <h3 class="title"><a href="#"><span>Multifunctional</span> <br> <span>of
-                                        Technology</span></a></h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
-                        </div>
-                    </div>
-                    <!-- Single Case Study End -->
-                </div>
-                <div class="swiper-slide">
-                    <!-- Single Case Study Start -->
-                    <div class="single-case-study-02">
-                        <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-6.jpg" alt=""></a>
-                        </div>
-                        <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
-                            <h3 class="title"><a href="#"><span>Blockchain</span> <br> <span>of technology</span></a>
-                            </h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
-                        </div>
-                    </div>
-                    <!-- Single Case Study End -->
-                </div>
-            </div>
-
-            <!-- Add Pagination -->
-            <div class="swiper-pagination"></div>
-        </div>
-    </div>
-    <!-- Case Study Content Wrap End -->
-</div>
-<!-- Case Study End -->
-
-<!-- Testimonial Start  -->
-<div class="section techwix-testimonial-section-02 techwix-testimonial-section-03 section-padding-02">
-    <div class="container">
-        <!-- Testimonial Wrap Start  -->
-        <div class="testimonial-wrap-02">
-            <div class="section-title text-center">
-                <h3 class="sub-title">Testimonial</h3>
-                <h2 class="title">20k+ satisfied clients worldwide</h2>
-            </div>
-            <div class="testimonial-content-wrap-02">
-                <div class="swiper-container testimonial-02-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-3.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Holder </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-4.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Fermalin </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-3.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Holder </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                    </div>
-
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </div>
-        <!-- Testimonial Wrap End  -->
-    </div>
-</div>
-<!-- Testimonial End  -->
-
 <!-- Brand Logo Start -->
 <div class="section techwix-brand-section techwix-brand-section-03">
+
     <div class="container">
         <!-- Brand Wrapper Start -->
         <div class="brand-wrapper text-center">
+            <div class="section-title text-center">
+                <h3 class="sub-title">Trusted By</h3>
+            </div>
 
             <!-- Brand Active Start -->
             <div class="brand-active">
@@ -584,27 +151,27 @@
                     <div class="swiper-wrapper">
                         <!-- Single Brand Start -->
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-1.png" alt="Brand">
+                            <img src="assets\images\01-bwm-partners-tata-projects.png" alt="Brand">
                         </div>
                         <!-- Single Brand End -->
                         <!-- Single Brand Start -->
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-2.png" alt="Brand">
+                            <img src="assets\images\02-bwm-partners-business-standard.png" alt="Brand">
                         </div>
                         <!-- Single Brand End -->
                         <!-- Single Brand Start -->
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-3.png" alt="Brand">
+                            <img src="assets\images\03-bwm-partners-the-times-of-india.png" alt="Brand">
                         </div>
                         <!-- Single Brand End -->
                         <!-- Single Brand Start -->
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-4.png" alt="Brand">
+                            <img src="assets\images\021-bwm-partners-vodafone.png" alt="Brand">
                         </div>
                         <!-- Single Brand End -->
                         <!-- Single Brand Start -->
                         <div class="swiper-slide single-brand">
-                            <img src="assets/images/brand/brand-5.png" alt="Brand">
+                            <img src="assets\images\05-bwm-partners-ajanta-pharma-limited.png" alt="Brand">
                         </div>
                         <!-- Single Brand End -->
                         <!-- Single Brand Start -->
@@ -622,233 +189,320 @@
 </div>
 <!-- Brand Logo End -->
 
-<!-- Team Start -->
-<div class="section techwix-team-section section-padding-02">
-    <div class="container">
-        <!-- Team Wrap Start -->
-        <div class="team-wrap">
-            <div class="section-title text-center">
-                <h3 class="sub-title">Our expert team </h3>
-                <h2 class="title"> We have world expert team</h2>
-            </div>
-            <!-- Team Content Wrap Start -->
-            <div class="team-content-wrap">
-                <div class="swiper-container team-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-1.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Andrew <br> Max Fetcher</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-2.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Arnold <br> human</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-3.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Mike <br> Holder</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-4.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Joakim <br> Ken</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                    </div>
+<!-- About Start -->
+<div class="section techwix-about-section-04 section-padding" id="AboutUS">
+    <div class="maincontent"
+        style="background-image: url(assets/images/bg/service-bg6.jpg);padding: 5%; text-align: center;">
+        <div class="section-title text-center">
+            <h3 class="sub-title">WHO WE ARE</h3>
+        </div>
+        <div class="section-title text-center">
+            <h2 class="title">We’re a Leader in E-Waste Management Services</h2>
+        </div><br>
+        <p class="texts">BWM is not just a company, it’s a mission. We're on a quest to address the growing problem of
+            e-waste in India while adhering to strict environmental management standards. The government rules to
+            dispose of electronic devices are more stringent today due to the increase in quantity of old, obsolete
+            e-waste generated by companies and institutions.</p>
+        <p class="texts">This is where BWM comes in! We will help you in Collection, Segregation, Dismantling, and
+            Refurbishment of all your electronic waste with 100% compliance & with Green Certification mentioning that
+            your e-waste has been legally disposed of.</p>
+    </div>
+</div>
+<!-- About End -->
 
+
+<!-- Testimonial Start  -->
+<div class="section techwix-about-section-04 section-padding" id="WeCollect">
+    <div class="container">
+        <!-- Testimonial Wrap Start  -->
+        <div class="testimonial-wrap-02">
+            <div class="section-title text-center">
+                <h3 class="sub-title">Below is the list of Electronic Waste Equipment you can sell to BWM</h3>
+            </div>
+            <div class="testimonial-content-wrap-02">
+                <div class="swiper-container testimonial-02-active">
+                    <img src="assets\images\bwm-electronic-waste-devices-equipment-management.jpg" alt="">
                     <!-- Add Pagination -->
                     <div class="swiper-pagination"></div>
                 </div>
             </div>
-            <!-- Team Content Wrap End -->
         </div>
-        <!-- Team Wrap End -->
+        <!-- Testimonial Wrap End  -->
     </div>
 </div>
-<!-- Team End -->
+<!-- Testimonial End  -->
 
-<!-- Blog Start -->
-<div class="section techwix-blog-section section-padding-02">
+
+<!-- Service Start -->
+<div class="section techwix-service-section-06 section-padding" id="OurProcess"
+    style="background-image: url(assets/images/bg/case-study-bg.jpg);padding-bottom: 70px;">
     <div class="container">
-        <!-- Section Title Start -->
-        <div class="section-title text-center">
-            <h4 class="sub-title">latest Blog</h4>
-            <h2 class="title">From the news room</h2>
+        <!-- Service Wrap Start -->
+        <div class="service-wrap">
+            <div class="section-title text-center">
+                <h2 class="title white">Our Recycling Process</h2>
+            </div>
+            <div class="service-content-wrap">
+                <div class="row">
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/bwm-waste-management-process-collection-transportation.png"
+                                    alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Collection</a></h3>
+                                <p>Collection involves pick up from your location or drop-off centers & then safe
+                                    transportation to our recycling facility.</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/bwm-waste-management-process-data-wiping-destruction.png"
+                                    alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Data Destruction</a></h3>
+                                <p>Sensitive information from the devices is securely erased using specialized software
+                                    or physically destroying the hard drive.</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets\images\bwm-waste-management-process-sorting-materials.png"
+                                    alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Sorting</a></h3>
+                                <p>At the recycling facility, the e-waste is sorted into different categories such as
+                                    metals, plastics, glass, and other materials.</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets\images\bwm-waste-management-process-waste-processign.png"
+                                    alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Processing</a></h3>
+                                <p>Sorted metals such as copper, aluminum, and gold are smelted, while plastics and
+                                    other materials are sent for further processing.</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets\images\bwm-waste-management-process-disposal.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Disposal</a></h3>
+                                <p>Any hazardous materials such as lead, mercury, and cadmium or un-recyclable materials
+                                    are removed and disposed of safely.</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-4 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets\images\bwm-waste-management-process-recycling.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Recycling</a></h3>
+                                <p>Remaining recyclable material is recycled while adhering to all the Government
+                                    compliances for environment safety.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- Section Title End -->
-        <div class="techwix-blog-wrap">
+        <!-- Service Wrap End -->
+    </div>
+</div>
+<!-- Service End -->
+
+<!-- Contact Start -->
+<div class="section techwix-contact-section section-padding" style="padding-top: 120px; padding-bottom: 80px;" id="contact">
+    <div class="container">
+        <!-- Contact Wrap Start -->
+        <div class="contact-wrap" style="background-image: url(assets/images/shape/contact-shape.png);">
             <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-1.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>08</span>Aug</span>
-                            </div>
+                <div class="col-xxl-5 col-lg-6">
+                    <!-- Contact Info Start -->
+                    <div class="contact-info">
+                        <div class="section-title">
+                            <h2 class="title">Frequently Asked Questions</h2>
                         </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
+                        <div class="section techwix-choose-us-section-02 section-padding-02" style="padding-top:20px;">
+                            <!-- Choose Us Right Start -->
+                            <div class="choose-us-right">
+                                <!-- Faq Accordion Start -->
+                                <div class="faq-accordion">
+                                    <div class="accordion" id="accordionExample">
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingOne">
+                                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseOne" aria-expanded="true"
+                                                    aria-controls="collapseOne">
+                                                    <span class="title">Is our data safe?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    We provide secure data wiping and destruction service. AS per
+                                                    requirement, we can do on-site data wiping or physical destruction
+                                                    of hard drives.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingTwo">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    <span class="title">Who will transport our waste?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    We have specialized vehicles for all types of wastes to ensure safer
+                                                    transportation as well as customized storage facilities at our
+                                                    factories.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingThree">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    <span class="title">Will we get paid?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    Yes. We do have standard rates for the end-of-life equipment and
+                                                    you, as a company selling to us, will get sufficient monetary
+                                                    returns.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingFour">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    <span class="title">Any certificates provided by you?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    We provide all our clients with following certificates: Data
+                                                    Degaussing Certificate, Form 6 and most important Green Certificate
+                                                    safe recycling.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Faq Accordion End -->
                             </div>
-                            <h3 class="title"><a href="blog-details.html">How to become a successful businessman </a>
-                            </h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
+                            <!-- Choose Us Right End -->
                         </div>
                     </div>
-                    <!-- Single Blog End -->
+                    <!-- Contact Info End -->
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-2.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>10</span>Aug</span>
+                <div class="col-xxl-7 col-lg-6">
+                    <!-- Contact Form Start -->
+                    <div class="contact-form">
+                        <div class="contact-form-wrap">
+                            <div class="heading-wrap text-center">
+                                <span class="sub-title">Leave us massage</span>
+                                <h3 class="title">How May We Help You!</h3>
                             </div>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
-                            </div>
-                            <h3 class="title"><a href="blog-details.html">Who Needs Extract Value From Data? </a></h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
+                            <form action="index.php" method="POST">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="text" name="name" placeholder="Name *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="email" name="email" placeholder="Email *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="text" name="tel" placeholder="Phone *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="text" name="subject" placeholder="Subject *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <textarea name="message" placeholder="Write A Message"></textarea>
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!--  Single Form Start -->
+                                        <div class="form-btn">
+                                            <button class="btn btn-3" type="submit" name="submit">Send Message</button>
+                                        </div>
+                                        <!--  Single Form End -->
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
-                    <!-- Single Blog End -->
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-3.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>12</span>Aug</span>
-                            </div>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
-                            </div>
-                            <h3 class="title"><a href="blog-details.html">Easy and Most Powerful Server and
-                                    Platform.</a></h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single Blog End -->
+                    <!-- Contact Form End -->
                 </div>
             </div>
         </div>
+        <!-- Contact Wrap End -->
     </div>
 </div>
-<!-- Blog End -->
-
-<!-- Cta Start -->
-<div class="section techwix-cta-section-02">
-    <div class="container">
-        <!-- Cta Wrap Start -->
-        <div class="cta-wrap" style="background-image: url(assets/images/bg/cta-bg.jpg);">
-            <div class="row align-items-center">
-                <div class="col-xl-9 col-lg-8">
-                    <!-- Cta Content Start -->
-                    <div class="cta-content">
-                        <div class="cta-icon">
-                            <img src="assets/images/cta-icon2.png" alt="">
-                        </div>
-                        <p>We’re Delivering the best customer Experience</p>
-                    </div>
-                    <!-- Cta Content End -->
-                </div>
-                <div class="col-xl-3 col-lg-4">
-                    <!-- Cta Button Start -->
-                    <div class="cta-btn">
-                        <a class="btn btn-white" href="#">+44 920 090 505</a>
-                    </div>
-                    <!-- Cta Button End -->
-                </div>
-            </div>
-        </div>
-        <!-- Cta Wrap End -->
-    </div>
-</div>
-<!-- Cta End -->
+<!-- Contact End -->
 
 
-<?php include('Footer.php'); ?>
+<?php include('footer.php'); ?>
